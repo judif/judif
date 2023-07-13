@@ -5,5 +5,5 @@
 
 🔭 I’m currently working on a [flutter project](https://flutter.dev/)
 
-🌱 Still learning new things with **[Azure](https://github.com/topics/azure)**
+🌱 Still learning new things with [Azure](https://github.com/topics/azure)
 
