@@ -6,6 +6,6 @@
 
 
 - 🔭 &ensp;I’m currently working in the cloud
-- 🌱 &ensp;I’m currently learning Flutter ❤️
+- 🌱 &ensp;I’m learning Flutter ❤️
 - 👯 &ensp;I’m looking to collaborate with others on topics around Azure ☁️
 
